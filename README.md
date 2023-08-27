@@ -26,3 +26,6 @@ npm run test
 ## P.S.
 
 Please use version of Node > 16
+In the project, there are several TODOs identified for future improvements. 
+It's important to note that if the project is significant in scope, 
+such as a large-scale project rather than a simple home assignment, these TODOs would be adequately covered.
