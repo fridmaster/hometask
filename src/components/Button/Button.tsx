@@ -1,4 +1,5 @@
 import "./Button.scss";
+
 interface ButtonProps {
   label: string;
   onClick: () => void;
@@ -9,7 +10,6 @@ function Button({ label, onClick, disabled }: ButtonProps) {
   return (
     <button
       className="btn"
-      key={label.replace(" ", "_")}
       onClick={onClick}
       disabled={disabled}
     >
