@@ -1,0 +1,17 @@
+.controlBarWrapper{
+    display: flex;
+    flex-direction: row;
+    padding: 24px 16px;
+    gap: 16px;
+    justify-content: space-between;
+    align-items: center; /* Align items vertically in the middle */
+    .btn:nth-child(1) {
+        margin-right: auto;
+    }
+    .btn:nth-child(2) {
+        margin-left: auto;
+    }
+    .btn:nth-child(3) {
+        margin-left: 8px;
+    }
+}

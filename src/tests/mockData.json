@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "label": "Set website header"
+    },
+    {
+        "id": 2,
+        "label": "Set homepage"
+    },
+    {
+        "id": 3,
+        "label": "Connect a custom domain",
+        "link": {
+            "text": "Connect Domain",
+            "url": "https://www.example.com/connect-domain"
+        }
+    },
+    {
+        "id": 4,
+        "label": "Go live! Publish your site",
+        "link": {
+            "text": "Unlock Site",
+            "url": "https://www.example.com/unlock-site"
+        }
+    },
+    {
+        "id": 5,
+        "label": "Set up your online store",
+        "link": {
+            "text": "Set up Store",
+            "url": "https://www.example.com/set-up-store"
+        },
+        "tasks": [
+            "Add products to your store",
+            "Set pricing and inventory",
+            "Configure payment gateways",
+            "Design product pages"
+        ]
+    },
+    {
+        "id": 6,
+        "label": "Set up your email",
+        "link": {
+            "text": "Set up Email",
+            "url": "https://www.example.com/set-up-email"
+        }
+    },
+    {
+        "id": 7,
+        "label": "Customize your site's theme",
+        "tasks": [
+            "Choose a color scheme",
+            "Select fonts",
+            "Customize layout",
+            "Upload logo and images"
+        ]
+    },
+    {
+        "id": 8,
+        "label": "Add pages to your site",
+        "tasks": [
+            "Create About Us page",
+            "Add Contact page",
+            "Include Product Catalog"
+        ]
+    },
+    {
+        "id": 9,
+        "label": "Set up contact forms",
+        "link": {
+            "text": "Contact Forms",
+            "url": "https://www.example.com/contact-forms"
+        }
+    }
+]
